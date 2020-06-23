@@ -1,0 +1,347 @@
+.site-header {
+    position: relative;
+    z-index: 999;
+}
+
+.sx-bg-secondry {
+    background-color: #23252d;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container .d-flex {
+    display: block !important;
+}
+body {
+    background-color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #000;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+.nav-wide .container {
+    width: 100%;
+}
+.site-header .container {
+    width: auto;
+}
+.text-white {
+    color: #FFF;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.nav-transparent .main-bar {
+    background-color: rgb(7, 8, 10);
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    padding: 0px;
+}
+.main-bar {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.container {
+    padding: 0px 15px;
+    max-width: 100%;
+}
+
+.logo-header {
+    width: 210px;
+}
+.logo-header-inner {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+}
+.nav-dark.header-nav {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.navbar-collapse.collapse {
+    display: none!important;
+}
+.navbar-toggler {
+    display: block;
+    margin-top: 14px;
+    margin-bottom: 14px;
+    float: right;
+    outline: none !important;
+}
+.nav-dark.header-nav .nav {
+    background-color: #23252d;
+}
+
+.nav-dark.header-nav {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+.navbar-collapse.collapse {
+    display: none!important;
+}
+.header-nav {
+    position: relative;
+    padding: 0px;
+    z-index: 7;
+}
+.nav {
+    overflow: auto;
+    height: 300px;
+}
+.header-nav .nav {
+    float: none;
+    margin: 0px;
+    background: #fff;
+    width: 100%;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px ;
+}
+.nav-transparent .main-bar {
+    background-color: rgb(7, 8, 10);
+    position: absolute;
+    width: 100%;
+    left: 0px;
+    padding: 0px;
+}
+.nav-transparent .main-bar .container {
+    padding: 0px 15px;
+    max-width: 100%;
+}
+
+.menu-bar{
+    background-color: black;
+}
+
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    text-align:end;
+    color: #fff;
+
+}
+
+.menu-bar ul li{
+    width: 100px;
+   margin: 15px;
+   padding: 15px;
+  
+
+}
+
+.section-head{
+    margin-bottom: 40;
+}
+
+
+#no-repeat{
+    width: 500px;
+    height: 125px;
+    border: 5px solid #E18728;
+    margin-bottom: 2em;
+    background: url(noise-pattern-with-subtle-cross-lines.png); 
+    text-align: center;
+    margin-left: 15px;
+  }
+  #repeat{
+
+    border: 5px solid #E18728;
+    width: 500px;
+    height: 800px;
+   
+
+
+  }
+
+  #no-repeat1{
+    width: 500px;
+    height: 125px;
+    border: 5px solid #E18728;
+    margin-bottom: 2em;
+    background: url(noise-pattern-with-subtle-cross-lines.png); 
+    text-align: center;
+    margin-left: 101px;
+  }
+
+  #no-repeat2{
+    width: 250px;
+    height: 80px;
+    border: 5px solid #E18728;
+    margin-bottom: 2em;
+    background: url(noise-pattern-with-subtle-cross-lines.png); 
+    text-align: center;
+    margin-left: 850px;
+    margin-top: -255px;
+  }
+
+  .testimonial-2 .testimonial-text {
+    padding: 20px 20px 40px 20px;
+}
+.testimonial-2 .testimonial-detail{
+
+    margin-bottom:20px;
+    margin-right:0px;
+    text-align:center;
+}
+
+#no-repeat3{
+    width: 500px;
+    height: 125px;
+    border: 5px solid grey;
+    margin-bottom: 2em; 
+    background: url(noise-pattern-with-subtle-cross-lines.png); 
+    text-align: center;
+    margin-left: 100px;
+  }
+
+
+  /* margin-top: -191px; 
+      width: 250;
+    height: 80;
+    border: 5px solid #E18728;
+    margin-bottom: 2em;
+    background: url(noise-pattern-with-subtle-cross-lines.png);
+    text-align: center;
+    margin-left: 850px;
+    margin-top: -255px;
+}
+  
+  
+  */
+
+
+  .section-full {
+    background-attachment: scroll !important;
+}
+.mobile-page-padding {
+    padding: 30px 0px;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section-head {
+    margin-bottom: 40px;
+}
+.sx-separator-outer.separator-center {
+    text-align: left;
+}
+.filter-carousal-1-outer {
+    position: relative;
+}
+
+.filter-carousal-1 {
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+loaded {
+    display: block;
+}
+.no-js .owl-carousel, .owl-carousel.owl-loaded {
+    display: block;
+}
+.owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    -webkit-transform: translate3d(0,0,0);
+}
+.owl-carousel .owl-stage {
+    position: relative;
+    -ms-touch-action: pan-Y;
+    -moz-backface-visibility: hidden;
+}
+.owl-carousel-filter .owl-item.active {
+    opacity: 1;
+}
+.overflow-hide {
+    overflow: hidden;
+}
+.image-hover-block {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background: #000;
+}
+.sx-thum-bx, .sx-post-thum {
+    background-color: #000;
+}
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+}
+.image-hover-block img {
+    max-width: 100%;
+    backface-visibility: hidden;
+    vertical-align: top;
+}
+.image-hover-block a.mfp-link {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    z-index: 1;
+    display: inline-block;
+    width: 0%;
+}
+.image-hover-block {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background: #000;
+}
+.overflow-hide {
+    overflow: hidden;
+}
+.image-hover-block {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background: #000;
+}
+.owl-btn-bottom-center .owl-nav {
+    text-align: center;
+}
+.navigation-with-name .owl-nav .owl-prev, .navigation-with-name .owl-nav .owl-next {
+    font-size: 12px;
+    border: 1px solid #ddd;
+    padding: 5px 20px;
+}
+.owl-carousel .owl-nav .disabled {
+    opacity: .5;
+    cursor: default;
+}
+.owl-next {
+    margin-left: 5px;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
